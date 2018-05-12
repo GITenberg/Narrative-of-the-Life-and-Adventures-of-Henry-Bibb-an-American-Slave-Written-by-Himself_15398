@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6033'
     url: http://www.gutenberg.org/2009/agents/6033
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15398#Narrative-of-the-Life-and-Adventures-of-Henry-Bibb-an-American-Slave-Written-by-Himself
 gutenberg_bookshelf:
 - Slavery
 - African American Writers
